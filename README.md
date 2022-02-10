@@ -9,8 +9,12 @@
 @@ I'm a software developer at Calindra @@
 !  I'm from Rio de Janeiro, Brazil 🇧🇷.
 +  📆 Jan 1982
-+  
--  sometimes speaker, sometimes silent, always meme sender
++  💻 Software
++  🥁 Drums
++  🚙 Cars
++  🔧 Mechanic
++  🪛 Electronic
+-  sometimes speaker, sometimes silent, always memes sender
 #  📖 dev builder, interface and experience, web development lover
 #  🔍 javascript, typescript, CSS
 ```
