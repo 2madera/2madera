@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**2madera/2madera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- <img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 -->
+
+```diff
+👨🏻‍💻 Hello! Iam Marcelo Madeira.
+
+@@ I'm a software developer at Calindra @@
+!  I'm from Rio de Janeiro, Brazil 🇧🇷.
++  📆 Jan 1982
++  
+-  sometimes speaker, sometimes silent, always meme sender
+#  📖 dev builder, interface and experience, web development lover
+#  🔍 javascript, typescript, CSS
+```
+
+#### 👉 [calindra.tech](https://calindra.tech/) 👈
